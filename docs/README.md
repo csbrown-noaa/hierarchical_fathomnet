@@ -1,11 +1,6 @@
-# Hierarchical YOLO
+# Hierarchical Fathomnet
 
-This repo provides wrappers around the [hierarchical loss library](https://csbrown-noaa.github.io/hierarchical_loss/) to facilitate usage with YOLO-style architectures, especially the [ultralytics implementation](https://docs.ultralytics.com/).
-  See the included jupyter notebooks for example usage.
-
-# Installation
-
-    pip install git+https://github.com/csbrown-noaa/hierarchical_yolo.git
+This repo provides training workflows for the [Fathomnet 2025 dataset](https://www.kaggle.com/competitions/fathomnet-2025) using the [hierarchical loss library](https://csbrown-noaa.github.io/hierarchical_loss/) and associated [ultralytics](https://docs.ultralytics.com/)-compatible [hierarchical YOLO library](https://github.com/csbrown-noaa/hierarchical_yolo#)
 
 # Contributing
 
